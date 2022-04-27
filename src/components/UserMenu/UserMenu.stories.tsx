@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Network } from '@dcl/schemas/dist/dapps/network'
+import { Network } from '@yanrongxing/schemas/dist/dapps/network'
 import MenuItem from 'semantic-ui-react/dist/commonjs/collections/Menu/MenuItem'
 import Icon from 'semantic-ui-react/dist/commonjs/elements/Icon/Icon'
 import { storiesOf } from '@storybook/react'

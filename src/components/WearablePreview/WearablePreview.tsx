@@ -8,8 +8,8 @@ import {
   PreviewMessageType,
   PreviewMessagePayload,
   sendMessage
-} from '@dcl/schemas/dist/dapps/preview'
-import { WearableBodyShape } from '@dcl/schemas/dist/platform/wearables'
+} from '@yanrongxing/schemas/dist/dapps/preview'
+import { WearableBodyShape } from '@yanrongxing/schemas/dist/platform/wearables'
 import { createDebounce } from '../../lib/debounce'
 import './WearablePreview.css'
 
